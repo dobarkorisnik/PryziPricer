@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="Spasov-PC" id="0" name="PriceControllerSpec" package="pryzipricer" tests="7" time="3.215" timestamp="2013-12-01T18:02:42">
+      <properties />
+
+      <testcase classname="pryzipricer.PriceControllerSpec" name="Test the index action returns the correct model" time="2.154" />
+
+      <testcase classname="pryzipricer.PriceControllerSpec" name="Test the create action returns the correct model" time="0.167" />
+
+      <testcase classname="pryzipricer.PriceControllerSpec" name="Test the save action correctly persists an instance" time="0.148" />
+
+      <testcase classname="pryzipricer.PriceControllerSpec" name="Test that the show action returns the correct model" time="0.085" />
+
+      <testcase classname="pryzipricer.PriceControllerSpec" name="Test that the edit action returns the correct model" time="0.08" />
+
+      <testcase classname="pryzipricer.PriceControllerSpec" name="Test the update action performs an update on a valid domain instance" time="0.307" />
+
+      <testcase classname="pryzipricer.PriceControllerSpec" name="Test that the delete action deletes an instance if it exists" time="0.084" />
+
+      <system-out><![CDATA[--Output from Test the index action returns the correct model--
+--Output from Test the create action returns the correct model--
+--Output from Test the save action correctly persists an instance--
+--Output from Test that the show action returns the correct model--
+--Output from Test that the edit action returns the correct model--
+--Output from Test the update action performs an update on a valid domain instance--
+--Output from Test that the delete action deletes an instance if it exists--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from Test the index action returns the correct model--
+--Output from Test the create action returns the correct model--
+--Output from Test the save action correctly persists an instance--
+--Output from Test that the show action returns the correct model--
+--Output from Test that the edit action returns the correct model--
+--Output from Test the update action performs an update on a valid domain instance--
+--Output from Test that the delete action deletes an instance if it exists--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="Spasov-PC" id="1" name="ProductControllerSpec" package="pryzipricer" tests="7" time="1.135" timestamp="2013-12-01T18:02:45">
+      <properties />
+
+      <testcase classname="pryzipricer.ProductControllerSpec" name="Test the index action returns the correct model" time="0.504" />
+
+      <testcase classname="pryzipricer.ProductControllerSpec" name="Test the create action returns the correct model" time="0.08" />
+
+      <testcase classname="pryzipricer.ProductControllerSpec" name="Test the save action correctly persists an instance" time="0.173" />
+
+      <testcase classname="pryzipricer.ProductControllerSpec" name="Test that the show action returns the correct model" time="0.08" />
+
+      <testcase classname="pryzipricer.ProductControllerSpec" name="Test that the edit action returns the correct model" time="0.06" />
+
+      <testcase classname="pryzipricer.ProductControllerSpec" name="Test the update action performs an update on a valid domain instance" time="0.133" />
+
+      <testcase classname="pryzipricer.ProductControllerSpec" name="Test that the delete action deletes an instance if it exists" time="0.096" />
+
+      <system-out><![CDATA[--Output from Test the index action returns the correct model--
+--Output from Test the create action returns the correct model--
+--Output from Test the save action correctly persists an instance--
+--Output from Test that the show action returns the correct model--
+--Output from Test that the edit action returns the correct model--
+--Output from Test the update action performs an update on a valid domain instance--
+--Output from Test that the delete action deletes an instance if it exists--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from Test the index action returns the correct model--
+--Output from Test the create action returns the correct model--
+--Output from Test the save action correctly persists an instance--
+--Output from Test that the show action returns the correct model--
+--Output from Test that the edit action returns the correct model--
+--Output from Test the update action performs an update on a valid domain instance--
+--Output from Test that the delete action deletes an instance if it exists--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
