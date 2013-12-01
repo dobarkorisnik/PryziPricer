@@ -1,4 +1,0 @@
-PryziPricer
-===========
-
-Application and DB
