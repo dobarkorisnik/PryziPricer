@@ -1,6 +1,6 @@
 This file contain instructions how to run this application and how to run tests.
 
--First You need to load db backup files in postgresql DB server
+-First You need to load db backup files in postgresql DB server (Backups are in PostgresqlDB folder in the project)
 -Open cmd 
 -Change path in cmd to folder in which this application is downloaded 
 -Write this in cmd "grails run-app"
